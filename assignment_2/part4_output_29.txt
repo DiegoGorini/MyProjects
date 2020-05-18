@@ -1,0 +1,64 @@
+Word 1: almost_ADV
+('approximately_ADV', 0.4449149966239929)
+('completely_ADV', 0.4409602880477905)
+('well-nigh_ADJ', 0.43809884786605835)
+('probably_ADV', 0.43346166610717773)
+('ago_ADV', 0.42444172501564026)
+Word 2: all_DET
+Not found
+Word 3: current_ADJ
+('latest_ADJ', 0.40534645318984985)
+('overall_ADJ', 0.4021810293197632)
+('original_ADJ', 0.4014129042625427)
+('outgoing_ADJ', 0.4008009433746338)
+('existing_ADJ', 0.3973086178302765)
+Word 4: dependency_NOUN
+('reliant_NOUN', 0.4445875883102417)
+('over-consumption_NOUN', 0.4346233606338501)
+('reliant_ADJ', 0.42110416293144226)
+('alienation_NOUN', 0.4203619360923767)
+('overreliance_NOUN', 0.4202781021595001)
+Word 5: parser_NOUN
+Not found
+Word 6: classify_VERB
+('redacted_ADJ', 0.45143264532089233)
+('iv2_NOUN', 0.4467378854751587)
+('unredacted_ADJ', 0.4412875473499298)
+('nonpublic_ADJ', 0.4409085810184479)
+('declassify_VERB', 0.4353944957256317)
+Word 7: base_VERB
+('include_VERB', 0.40647828578948975)
+('cite_VERB', 0.4061586856842041)
+('incorporate_VERB', 0.4046139717102051)
+('Riverwoods_PROPN', 0.39932775497436523)
+('extrapolation_NOUN', 0.39830636978149414)
+Word 8: on_ADP
+Not found
+Word 9: million_NOUN
+('100,000_NUM', 0.5532273054122925)
+('quarter-million_ADJ', 0.5413433313369751)
+('300,000_NUM', 0.5374902486801147)
+('400,000_NUM', 0.5371304750442505)
+('500,000_NUM', 0.5253934860229492)
+Word 10: of_ADP
+Not found
+Word 11: sparse_ADJ
+('scattered_ADJ', 0.46307069063186646)
+('smattering_NOUN', 0.46163690090179443)
+('meager_ADJ', 0.46066635847091675)
+('paucity_NOUN', 0.4591800570487976)
+('disjointed_ADJ', 0.4588638246059418)
+Word 12: indicator_NOUN
+('Conference::Board_PROPN', 0.4729256331920624)
+('Indicators_PROPN', 0.4718850255012512)
+('coincident_ADJ', 0.46481144428253174)
+('non-manufacturing_ADJ', 0.4626101851463318)
+('NTC::Research_PROPN', 0.4585435390472412)
+Word 13: feature_NOUN
+('SHOPPING-GUIDE_PROPN', 0.4796397089958191)
+('dvd-releases_NOUN', 0.47757747769355774)
+('on-language_NOUN', 0.46528196334838867)
+('bc-fbn-bucs_NOUN', 0.4630841612815857)
+('bc-cpt-computer-column_NOUN', 0.4617146849632263)
+Word 14: ._PUNCT
+Not found
